@@ -1,10 +1,18 @@
-# 💫 About Me:
-🔭 I'm currently working on<br><br>BLS International, an online visa application platform, handling DevOps infrastructure with AWS, Kubernetes, Docker, Jenkins CI/CD pipelines, Linux servers, monitoring, networking & security<br><br>
-👥 I'm looking to collaborate on<br><br>DevOps automation projects, cloud infrastructure, or full-stack apps using .NET Core / PostgreSQL<br><br>
-🌱 I'm currently learning<br><br>Advanced Kubernetes orchestration, AWS cloud architecture & infrastructure-as-code (Terraform/Ansible)<br><br>
-💛 I'm looking for help with<br><br>Scaling microservices architecture & advanced cloud security best practices<br><br>
-💬 Ask me about<br><br>DevOps, CI/CD with Jenkins, Docker, Kubernetes, AWS, Linux, .NET MVC Core, PostgreSQL, or web tech (HTML/CSS/JS)<br><br>
-⚡ Fun fact<br><br>I automate everything I can — if I have to do it twice, I'll write a script for it! 😄
+# 💫 About Me
+
+👋 I'm **Ishan Puri** — a passionate **DevOps Engineer** with **2.6 years of experience** 
+building and automating cloud infrastructure at scale.
+
+🔭 **Currently** working at **BLS International** on enterprise visa platform infrastructure
+— AWS, Kubernetes, Docker, Jenkins CI/CD, Linux, monitoring & security
+
+🛠️ **Collaborating on** DevOps automation, cloud infrastructure & .NET Core / PostgreSQL projects
+
+🌱 **Learning** Advanced Kubernetes, AWS architecture & IaC with Terraform/Ansible
+
+💬 **Ask me about** DevOps · CI/CD · Docker · Kubernetes · AWS · Linux · PostgreSQL
+
+⚡ **Fun fact** — If I have to do it twice, I automate it! 😄
 
 
 ## 🌐 Socials:
