@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>BLS International — an online visa application platform, handling DevOps infrastructure with AWS, Kubernetes, Docker, Jenkins CI/CD pipelines, Linux servers, monitoring, networking & security<br><br>👥 I'm looking to collaborate on<br><br>DevOps automation projects, cloud infrastructure, or full-stack apps using .NET Core / PostgreSQL<br><br>🌱 I'm currently learning<br><br>Advanced Kubernetes orchestration, AWS cloud architecture & infrastructure-as-code (Terraform/Ansible)<br><br>💛 I'm looking for help with<br><br>Scaling microservices architecture & advanced cloud security best practices<br><br>💬 Ask me about<br><br>DevOps, CI/CD with Jenkins, Docker, Kubernetes, AWS, Linux, .NET MVC Core, PostgreSQL, or web tech (HTML/CSS/JS)<br><br>⚡ Fun fact<br><br>I automate everything I can — if I have to do it twice, I'll write a script for it! 😄
+🔭 I'm currently working on<br><br>BLS International, an online visa application platform, handling DevOps infrastructure with AWS, Kubernetes, Docker, Jenkins CI/CD pipelines, Linux servers, monitoring, networking & security<br><br>
+👥 I'm looking to collaborate on<br><br>DevOps automation projects, cloud infrastructure, or full-stack apps using .NET Core / PostgreSQL<br><br>
+🌱 I'm currently learning<br><br>Advanced Kubernetes orchestration, AWS cloud architecture & infrastructure-as-code (Terraform/Ansible)<br><br>
+💛 I'm looking for help with<br><br>Scaling microservices architecture & advanced cloud security best practices<br><br>
+💬 Ask me about<br><br>DevOps, CI/CD with Jenkins, Docker, Kubernetes, AWS, Linux, .NET MVC Core, PostgreSQL, or web tech (HTML/CSS/JS)<br><br>
+⚡ Fun fact<br><br>I automate everything I can — if I have to do it twice, I'll write a script for it! 😄
 
 
 ## 🌐 Socials:
